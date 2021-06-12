@@ -1,0 +1,14 @@
+nav {
+    min-height: 30px;
+}
+
+.navigation {
+    float: left;
+    display: inline;
+    background-color: #f2bc8d;
+    padding: 10px 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
