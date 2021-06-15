@@ -1,5 +1,5 @@
 nav {
-    min-height: 30px;
+    min-height: 50px;
 }
 
 .navigation {
@@ -8,6 +8,41 @@ nav {
     background-color: #f2bc8d;
     padding: 10px 20px;
 }
+
+body {
+    display: block;
+    margin: 10px;
+    float: left;
+}
+
+div {
+    display: block;
+}
+
+.left {
+    width: 29%;
+    float: left;
+    height: 700px;
+    background-color: bisque;
+}
+.main {
+    float: right;
+    width: 70%;
+    height: 815px;
+    background-color: burlywood;
+}
+.content {
+    text-align: center;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 img {
     max-width: 100%;
     height: auto;
